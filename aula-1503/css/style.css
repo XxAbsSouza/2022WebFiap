@@ -1,0 +1,14 @@
+/* Regra CSS = Formatação
+seletor = quem eu quero formatar(TAG)
+propriedade = o que eu quero formatar no seletor
+valor = como irá ficar
+
+seletor {
+    propriedade: valor;
+} */
+
+h1 {
+    font-size: 50px;
+    color: orangered;
+    font-family: calibri;
+}

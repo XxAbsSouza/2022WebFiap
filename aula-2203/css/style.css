@@ -1,0 +1,49 @@
+/* chamando o Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Poppins:wght@300&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1,
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    color: rgb(161, 37, 15);
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+div {
+    width: 50%;
+    /* border-width: 10px;
+    border-style: solid;
+    border-color: #900; */
+    border: 1px solid #900;
+    /* border-top: 1px solid #900; */
+    /* margin: 20px 40px 60px 100px; */
+    /* margin-top: 50px; */
+    /* margin-left: 100px; */
+    margin: 20px auto;
+    text-align: center;
+    border-radius: 10px;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
